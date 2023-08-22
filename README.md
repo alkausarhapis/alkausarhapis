@@ -4,7 +4,9 @@
   My GitHub Stats 
 </h1>
 
-<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=alkausarhapis&show_icons=true&theme=dark">
-<img align="left" width="49%" src="https://streak-stats.demolab.com/?user=salesp07&count_private=true&theme=dark&border_radius=5" alt="streak stats"/>
+<div align="center">
+<img width="450px" src="https://github-readme-stats.vercel.app/api?username=alkausarhapis&show_icons=true&theme=dark">
+<img width="480px" src="https://streak-stats.demolab.com/?user=salesp07&count_private=true&theme=dark&border_radius=5" alt="streak stats"/>
+</div>
 
 
