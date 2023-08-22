@@ -1,1 +1,10 @@
-<h1 align="center">BEHOLD</h1> <p align="center">My GitHub Stats</p>
+<h1 align="center">
+  <img src="https://cdn.discordapp.com/emojis/991415839288987749" width="30"> BEHOLD <img src="https://cdn.discordapp.com/emojis/991415839288987749" width="30"> 
+</br> 
+  My GitHub Stats 
+</h1>
+
+<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=alkausarhapis&show_icons=true&theme=dark">
+<img align="left" width="49%" src="https://streak-stats.demolab.com/?user=salesp07&count_private=true&theme=dark&border_radius=5" alt="streak stats"/>
+
+
