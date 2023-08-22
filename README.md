@@ -11,7 +11,7 @@
 </br></br>
 
 <div align="center"> 
- <img width="100%" media="(prefers-color-scheme: dark)" src="https://raw.githubusercontent.com/alkausarhapis/alkausarhapis/output/github-contribution-grid-snake.svg" />
+ <img width="100%" src="https://raw.githubusercontent.com/alkausarhapis/alkausarhapis/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 
