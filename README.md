@@ -6,7 +6,7 @@
 
 <div align="center">
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=alkausarhapis&show_icons=true&theme=dark">
-<img width="48%" src="https://github-readme-streak-stats.heroku.app/?user=alkausarhapis&count_private=true&theme=dark&border_radius=5" alt="streak stats"/>
+<img width="48%" src="https://streak-stats-demolab/?user=alkausarhapis&theme=dark&border_radius=5" alt="streak stats"/>
 <p>Promising innit?</p>
 </div> </br>
 <h1 align="center">
