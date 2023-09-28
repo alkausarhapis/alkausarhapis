@@ -6,7 +6,6 @@
 
 <div align="center">
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=alkausarhapis&show_icons=true&theme=dark">
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alkausarhapis&theme=dark" alt="streak stats"/>
  
 <p>Promising innit?</p>
 </div> </br>
@@ -19,3 +18,5 @@
 </div>
 
 
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alkausarhapis&theme=dark" alt="streak stats"/>
