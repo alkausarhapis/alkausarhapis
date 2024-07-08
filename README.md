@@ -4,10 +4,11 @@
   My GitHub Stats 
 </h1>
 
-| Overview | Language |
-|-----------|-----------|
-| [overview](https://github-readme-stats.vercel.app/api?username=alkausarhapis&show_icons=true&theme=dark)| [streak](https://github-readme-streak-stats.herokuapp.com/?user=alkausarhapis&theme=dark) |
-
+<div align="center">
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=alkausarhapis&show_icons=true&theme=dark">
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alkausarhapis&theme=dark" alt="streak stats">
+ 
+</div> </br>
 </div> </br>
 <h1 align="center">
   Contribution </br> 
