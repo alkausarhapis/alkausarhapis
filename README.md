@@ -1,8 +1,14 @@
 <h1 align="center">
-  <img src="https://cdn.discordapp.com/emojis/991415839288987749" width="30"> BEHOLD <img src="https://cdn.discordapp.com/emojis/991415839288987749" width="30"> 
-</br> 
-  My GitHub Stats 
+  <img src="https://cdn.discordapp.com/emojis/991415839288987749" width="30">
+  BEHOLD
+  <img src="https://cdn.discordapp.com/emojis/991415839288987749" width="30">
+  <br/>
+  My GitHub Stats
 </h1>
+
+<p align="center">
+  <i>"Looks mid on purpose"</i>
+</p>
 
 <div align="center">
 <table>
@@ -12,22 +18,41 @@
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=alkausarhapis&show_icons=true&theme=dark">
+      <img src="https://github-readme-stats.vercel.app/api?username=alkausarhapis&show_icons=true&theme=dark&hide_border=true">
     </td>
     <td>
-      <img src="https://github-readme-streak-stats-eight.vercel.app?user=alkausarhapis&theme=dark">
+      <img src="https://github-readme-streak-stats-eight.vercel.app?user=alkausarhapis&theme=dark&hide_border=true">
     </td>
   </tr>
 </table>
- 
-</div> </br>
-</div> </br>
-<h1 align="center">
-  Contribution </br> 
-  <sub>Not that much? Well.. it was eaten by a snek <img src="https://cdn.discordapp.com/emojis/979540544550207498" width="25"> </sub>
-</h1>
-<div align="center"> 
- <img width="100%" src="https://raw.githubusercontent.com/alkausarhapis/alkausarhapis/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
+<p align="center">
+  <img src="https://cdn.discordapp.com/emojis/1154862671192146020.png" width="100">
+  <img src="https://cdn.discordapp.com/emojis/1142796221895934083.png" width="100">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,vscode,git,figma&theme=dark" />
+  <img src="https://cdn.discordapp.com/emojis/1142796281090154616.png" width="100">
+  <img src="https://cdn.discordapp.com/emojis/1142793621830111262.png" width="100">
+</p>
 
+##
+
+<h1 align="center">
+  Contribution
+  <br/>
+  <sub>
+    <img src="https://cdn.discordapp.com/emojis/979540544550207498" width="20">
+    Commits were made. Snek did it.
+    <img src="https://cdn.discordapp.com/emojis/979540544550207498" width="20">
+  </sub>
+</h1>
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/alkausarhapis/alkausarhapis/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+##
+
+<p align="center">
+   <img src="https://cdn.discordapp.com/emojis/1177230080972443679.png" width="120">
+</p>
