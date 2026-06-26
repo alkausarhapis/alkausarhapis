@@ -28,11 +28,7 @@
 </div>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/emojis/1154862671192146020.png" width="100">
-  <img src="https://cdn.discordapp.com/emojis/1142796221895934083.png" width="100">
   <img src="https://skillicons.dev/icons?i=flutter,dart,react,vscode,git,figma&theme=dark" />
-  <img src="https://cdn.discordapp.com/emojis/1142796281090154616.png" width="100">
-  <img src="https://cdn.discordapp.com/emojis/1142793621830111262.png" width="100">
 </p>
 
 ##
